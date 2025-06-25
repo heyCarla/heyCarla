@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm a Product Designer at [@Appwrite](https://github.com/appwrite) and former mobile developer based in Madrid 🇪🇸 Spain. I'm passionate about applying my programming experience to every project I take on while I transition from developing mobile apps to designing them!
-
-When I'm not at my computer -- which, to be fair, is not often these days -- I love traveling ✈️, hockey 🏒, videogames 👾, baking 🧁, camping 🏕️, and lately I've been dabbling in 3D modelling with Blender (sorry I couldn't find an appropriate blending emoji). 
+I’m a product designer based in Barcelona 🇪🇸 with a background in iOS development. I’m also a big videogame nerd and I love telling stories.
 
 <!--
 **heyCarla/heyCarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
